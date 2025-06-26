@@ -29,7 +29,7 @@ elif player == 1 and computer ==3:
     print("You Win!")
 elif player == 1 and computer ==4:
     print("You Win!")
-if player == 2 and computer == 1:
+elif player == 2 and computer == 1:
     print("You Win!")
 elif player == 2 and computer ==5:
     print("You Win!")
